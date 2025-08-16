@@ -26,7 +26,7 @@ This site was created to **simulate a restaurant website layout and features**.
 
 ## 📦 Installation
 ```bash
-# 1. Clone the repo
+##1. Clone the repo
 git clone https://github.com/tajirdev/fet-food.git
 
 # 2. Navigate into the folder
